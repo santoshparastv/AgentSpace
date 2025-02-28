@@ -26,9 +26,9 @@ The content of the [tag](https://github.com/NebulaiNetwork/Nebulai_Origin_Agent/
 
 ## How to Contribute
 Thank you for your interest in contributing! If you would like to contribute, please follow these steps:
-1. **Fork the repository**
-2. **Clone the repository** to your local machine
-3. **Commit And Push** your changes to your forked repository
+1. **Fork the repository**.
+2. **Clone the repository** to your local machine.
+3. **Commit And Push** your changes to your forked repository.
 4. **Create a Pull Request (PR)** describing the changes you made.
 
 ## Thank You!
