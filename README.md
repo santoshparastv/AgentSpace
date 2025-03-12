@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/NebulaiNetwork/Nebulai_AgentSpace/img/Nebulai_Space.png" width="500"/> 
+  <img src="https://github.com/NebulaiNetwork/Nebulai_AgentSpace/blob/main/img/banner.png" width="500"/> 
   
   [Website](https://nebulai.com) <br> <br>
 </div>
@@ -9,7 +9,7 @@ Agent Space is an open-source framework that automatically selects the appropria
 
 ## Nebulai agent space framwork
 
-![Alt text](https://gateway.pinata.cloud/ipfs/bafkreicx73rjz4dcucm7vvxuuwylo7kmgufyuxxabvekhqwmeybo6rnnaa)
+![Alt text](https://github.com/NebulaiNetwork/Nebulai_AgentSpace/blob/main/img/Nebulai_Space.png)
 
 ## Component
 ### Pioneer  
