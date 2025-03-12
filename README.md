@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gateway.pinata.cloud/ipfs/bafkreiglbe2xef4ucpq7nb4xgxup44hlfpmxtzcg3jx4wemgg3nzwvkrwa" width="500"/> 
+  <img src="https://github.com/NebulaiNetwork/Nebulai_AgentSpace/img/Nebulai_Space.png" width="500"/> 
   
   [Website](https://nebulai.com) <br> <br>
 </div>
