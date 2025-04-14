@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/NebulaiNetwork/Nebulai_AgentSpace/blob/main/img/banner.png" width="500"/> 
   
-  [Website](https://nebulai.com) <br> <br>
+  [Website](https://nebulai.network) <br> <br>
 </div>
 
 ## Introduction
